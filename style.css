@@ -38,6 +38,10 @@
     --fixed-width: 450px;
     --clr-pink: #f28ab2;
   }
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+  }
 main {
     min-height: 100vh;
     display: flex;
